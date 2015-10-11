@@ -1,0 +1,23 @@
+5.2.1f1:2.1.0.0
+StandaloneWindows
+B:/Program Files/unity/Editor/Data/Managed/UnityEngine.dll
+B:/Program Files/unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
+B:/Program Files/unity/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll
+B:/Program Files/unity/Editor/Data/Managed/UnityEditor.dll
+B:/Program Files/unity/Editor/Data\Managed/Mono.Cecil.dll
+B:/Program Files/unity/Editor/Data/PlaybackEngines/iOSSupport\UnityEditor.iOS.Extensions.Xcode.dll
+B:/Program Files/unity/Editor/Data/UnityExtensions/Unity/Advertisements/Editor/UnityEditor.Advertisements.dll
+B:/Program Files/unity/Editor/Data/UnityExtensions/Unity/GUISystem/Editor/UnityEditor.UI.dll
+B:/Program Files/unity/Editor/Data/UnityExtensions/Unity/Networking/Editor/UnityEditor.Networking.dll
+B:/Program Files/unity/Editor/Data/Managed/UnityEditor.Graphs.dll
+B:\Program Files\unity\Editor\Data\PlaybackEngines\androidplayer/UnityEditor.Android.Extensions.dll
+B:/Program Files/unity/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.dll
+B:\Program Files\unity\Editor\Data\PlaybackEngines\wp8support/UnityEditor.WP8.Extensions.dll
+B:\Program Files\unity\Editor\Data\PlaybackEngines\metrosupport/UnityEditor.Metro.Extensions.dll
+B:\Program Files\unity\Editor\Data\PlaybackEngines\TizenPlayer/UnityEditor.Tizen.Extensions.dll
+B:\Program Files\unity\Editor\Data\PlaybackEngines\stvplayer/UnityEditor.SamsungTV.Extensions.dll
+B:\Program Files\unity\Editor\Data\PlaybackEngines\webglsupport/UnityEditor.WebGL.Extensions.dll
+B:\Program Files\unity\Editor\Data\PlaybackEngines\linuxstandalonesupport/UnityEditor.LinuxStandalone.Extensions.dll
+B:\Program Files\unity\Editor\Data\PlaybackEngines\windowsstandalonesupport/UnityEditor.WindowsStandalone.Extensions.dll
+B:\Program Files\unity\Editor\Data\PlaybackEngines\macstandalonesupport/UnityEditor.OSXStandalone.Extensions.dll
+C:\Program Files (x86)\Microsoft Visual Studio Tools for Unity\2015\Editor\SyntaxTree.VisualStudio.Unity.Bridge.dll
